@@ -56,26 +56,25 @@ Setiap notebook tidak hanya berisi kode, tetapi juga analisis hasil, perbandinga
 
 ```text
 Machine_Learning/
-├── Code/
-│   ├── EksplorasiMandiri/
-│   │   ├── Tugas1/
-│   │   │   └── modul_01_supervised_learning.ipynb
-│   │   ├── Tugas2/
-│   │   │   └── modul_02_supervised_learning.ipynb
-│   │   ├── Tugas3/
-│   │   │   ├── data/
-│   │   │   │   └── heart.csv
-│   │   │   └── modul_03_supervised_learning.ipynb
-│   │   ├── Tugas4/
-│   │   │   └── modul_04_unsupervised_learning.ipynb
-│   │   └── Tugas5/
-│   │       ├── data/
-│   │       │   └── Mall_Customers.csv
-│   │       └── modul_05_unsupervised_learning.ipynb
-│   └── TugasKelompok01/
+├── EksplorasiMandiri/
+│   ├── Tugas1/
+│   │   └── modul_01_supervised_learning.ipynb
+│   ├── Tugas2/
+│   │   └── modul_02_supervised_learning.ipynb
+│   ├── Tugas3/
+│   │   ├── data/
+│   │   │   └── heart.csv
+│   │   └── modul_03_supervised_learning.ipynb
+│   ├── Tugas4/
+│   │   └── modul_04_unsupervised_learning.ipynb
+│   └── Tugas5/
 │       ├── data/
-│       │   └── insurance.csv
-│       └── TugasKelompokBerbasisKasus01_Coba-coba.ipynb
+│       │   └── Mall_Customers.csv
+│       └── modul_05_unsupervised_learning.ipynb
+├── TugasKelompok01/
+│   ├── data/
+│   │   └── insurance.csv
+│   └── TugasKelompokBerbasisKasus01_Coba-coba.ipynb
 ├── PDF/
 │   └── laporan proyek kelompok
 ├── .gitignore
